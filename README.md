@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm Preksha Shah, a Data Science enthusiast with a
 [![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Preksha0420&theme=yeblu)](https://github.com/Preksha0420)
 
 ## Top Repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Preksha0420&theme=dark&hide_border=true&repo=FindMeTheRecipe)]https://github.com/Preksha0420/FindMeTheRecipe)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Preksha0420&theme=dark&hide_border=true&repo=PANDAS)](https://github.com/Preksha0420/PANDAS)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Preksha0420&theme=yeblu&hide_border=true&repo=FindMeTheRecipe)]https://github.com/Preksha0420/FindMeTheRecipe)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Preksha0420&theme=yeblu&hide_border=true&repo=PANDAS)](https://github.com/Preksha0420/PANDAS)
 
 ## IDE
 [![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white) ![](	https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252) ![](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white) ![](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://github.com/SUKHMAN-SINGH-1612)
